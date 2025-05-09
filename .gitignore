@@ -22,7 +22,14 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-
+.vscode
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+.idea
+packages
 # .NET Core
 project.lock.json
 project.fragment.lock.json
